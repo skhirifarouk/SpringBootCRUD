@@ -1,0 +1,10 @@
+com\project\exception\ErrorDetails.class
+com\project\service\StudentService.class
+com\project\configuration\SwaggerConfig.class
+com\project\exception\ResourceNotFoundException.class
+com\project\model\Model.class
+com\project\model\Student.class
+com\project\persistence\StudentRepository.class
+com\project\Application.class
+com\project\exception\GlobalExceptionHandler.class
+com\project\controller\StudentController.class
