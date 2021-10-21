@@ -8,9 +8,6 @@ import java.io.Serializable;
 
 @Entity
 public class Model implements Serializable {
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private long id;
 
     public long getId() {
         return this.id;
